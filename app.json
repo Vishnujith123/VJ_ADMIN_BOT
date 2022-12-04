@@ -1,6 +1,6 @@
 {
-    "name": "Midukki-RoBoT",
-    "description": "Midukki-RoBoT is an all in one group management bot made for managing your group effectively with some advance security tools & Suit For All Your Needs ❤️",
+    "name": "VJ_ADMIN_BOT",
+    "description": "VJ_ADMIN_BOT is an all in one group management bot made for managing your group effectively with some advance security tools & Suit For All Your Needs ❤️",
     "keywords": [
       "telegram",
       "group",
@@ -11,47 +11,47 @@
       "tech"
     ],
     "website": "https//telegram.dog/Midukki_RoBoT",
-    "repository": "https://github.com/PR0FESS0R-99/Midukki-RoBoT",
+    "repository": "https://github.com/Vishnujith123/VJ_ADMIN_BOT",
     "env": {
         "BOT_TOKEN": {
-            "description": "Your bot token.",
+            "description": "5938679208:AAEKtD-MmbEXu5EA4Sk6JH7Nj-wOKeCJHPE.",
             "value": "",
             "required": true
         },
         "API_ID": {
-            "description": "Get this value from telegram.org",
+            "description": "8202388",
             "value": "",
             "required": true
         },
         "API_HASH": {
-            "description": "Get this value from telegram.org",
+            "description": "6e5e0736b5f953fc481d2c2478b7688a",
             "value": "",
             "required": true
         },
         "CHANNELS": {
-            "description": "Username or ID of channel or group. Separate multiple IDs by space",
+            "description": "-1001845313932",
             "value": "",
             "required": true
         },
         "COLLECTION_NAME": {
-            "description": "Name of the collections. Defaults to Telegram_files. If you are using the same database, then use different collection name for each bot",
+            "description": "Telegram_files",
             "value": "Telegram_files",
             "required": false
         },
         "DATABASE_NAME": {
-            "description": "Name of the database in https://www.mongodb.com/. For more help watch this https://youtu.be/mD9veNL7KoE",
+            "description": "Bot",
             "value": "",
             "required": false
         },
         "DATABASE_URL": {
-            "description": "Name of the database in https://www.mongodb.com/. For more help watch this https://youtu.be/mD9veNL7KoE",
+            "description": "mongodb+srv://VISHNUJITH:VISHNUJITH@cluster0.kc2yak6.mongodb.net/?retryWrites=true&w=majority",
             "value": "",
             "required": true
         },
         "FORCE_SUB": {
-            "description": "ID of channel. Without subscribing this channel users cannot use Autofilter",
+            "description": "-1001761767023",
             "value": "",
-            "required": false
+            "required": true
         },
         "GITHUB_USERNAME": {
             "description": "Enter Your Github Username Pr0fess0r-99",
@@ -59,7 +59,7 @@
             "required": true
         },
         "LOG_CHANNEL": {
-            "description": "A channel to log the activities of bot. Make sure bot is an admin in the channel",
+            "description": "-1001870404403",
             "value": "",
             "required": true
         },
